@@ -29,4 +29,16 @@ h1, h2, h3 {
 	color: #4a3b32;
 }
 
+input[type="text", input[type="email"], input[type="tel], textarea {
+	width: 100%;
+	padding: 12px;
+	margin-top:6px;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box
+}
 
+form {
+	mx-width: 600px;
+	margin: 0 auto;
+}
