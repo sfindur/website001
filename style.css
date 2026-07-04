@@ -9,7 +9,7 @@ header {
 
 ul {
 	display: flex;
-	flex=direction: column;
+	flex-direction: column;
 	gap: 20px;
 }
 
@@ -17,7 +17,7 @@ ul {
 	ul {
 		flex-direction: row;
 		flex-wrap: wrap;
-		justify-conten: space;
+		justify-content: space;
 }
 
 p {
